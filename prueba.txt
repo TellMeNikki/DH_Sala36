@@ -1,2 +1,4 @@
 creamos este archivo dentro de la rama prueba 
 :)
+
+editamos archivo desde terminal VI y lo subimos desde repo local al remoto
